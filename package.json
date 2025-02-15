@@ -1,0 +1,19 @@
+{
+  "name": "ayman",
+  "version": "1.0.0",
+  "description": "its and amazing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayman",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^19.1.6",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
